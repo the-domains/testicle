@@ -1,7 +1,7 @@
 name: testicle
 favicon: null
-layout_spectrum: 0.19822056754492223
-typography_spectrum: 0.9859973250422627
+layout_spectrum: 0.32369
+typography_spectrum: 1
 title: blumpkins for all
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fcfcfc'
+    - '#c6c7c1'
+    - '#363636'
+    - '#687b89'
+    - '#181914'
   brandStrength: 0.09495642548426986
   lightness: 0.3957566446624696
   saturation: 0.6019240578170866
